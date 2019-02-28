@@ -5,8 +5,6 @@
 
 > Original package [mongoose-paginate](https://www.npmjs.com/package/mongoose-paginate)
 
-[![NPM version](https://img.shields.io/npm/v/mongoose-paginate.svg)](https://npmjs.org/package/mongoose-paginate)
-
 **Note:** This plugin will only work with Node.js >= 4.2 and Mongoose >= 4.2
 =======
 [![NPM](https://nodei.co/npm/mongoose-paginate.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mongoose-paginate/)
