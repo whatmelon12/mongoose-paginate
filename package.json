@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/whatmelon12/mongoose-paginate/issues"
   },
-  "homepage": "https://github.com/whatmelon12/mongoose-paginate#readme"
+  "homepage": "https://github.com/whatmelon12/mongoose-paginate#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.0.2",
+    "mongoose": "^5.4.16",
+    "mongoose-autopopulate": "^0.9.1",
+    "nyc": "^13.3.0"
+  }
 }
