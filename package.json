@@ -4,7 +4,7 @@
   "description": "Mongoose paginate plugin that integrates with mongoose-autopopulate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha \"test/index.js\""
   },
   "repository": {
     "type": "git",
