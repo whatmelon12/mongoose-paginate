@@ -1,6 +1,6 @@
 {
   "name": "mongoose-paginate-autopopulate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mongoose paginate plugin that integrates with mongoose-autopopulate",
   "main": "index.js",
   "scripts": {
