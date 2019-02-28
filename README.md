@@ -1,5 +1,5 @@
 
-# mongoose-paginate
+# mongoose-paginate-autopopulate
 
 > Pagination plugin for [Mongoose](http://mongoosejs.com) with support for [mongoose-autopopulate](https://www.npmjs.com/package/mongoose-autopopulate)
 
@@ -7,12 +7,12 @@
 
 **Note:** This plugin will only work with Node.js >= 4.2 and Mongoose >= 4.2
 =======
-[![NPM](https://nodei.co/npm/mongoose-paginate.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mongoose-paginate/)
+[![NPM](https://nodei.co/npm/mongoose-paginate-autopopulate.png)](https://nodei.co/npm/mongoose-paginate-autopopulate/)
 
 ## Installation
 
 ```sh
-npm install mongoose-paginate
+npm install mongoose-paginate-autopopulate
 ```
 
 ## Usage
